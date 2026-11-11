@@ -1,4 +1,5 @@
 # ARGUS
+https://img.shields.io/badge/Project-ARGUS-darkred https://img.shields.io/badge/Version-0.1.0-blue https://img.shields.io/badge/Status-Prototype-yellow https://img.shields.io/badge/Architecture-Multi--Agent-green
 
 ARGUS est une plateforme d'intelligence documentaire basée sur l'intelligence artificielle dont l'objectif est de transformer automatiquement le code source en documentation fonctionnelle, structurée et maintenable.
 
@@ -348,4 +349,3 @@ ARGUS doit devenir la mémoire vivante des systèmes logiciels de l'organisation
 Chaque changement de code, chaque concept métier et chaque règle d'affaires doit pouvoir être découvert, compris, documenté et consulté sans dépendre de la connaissance individuelle d'un développeur ou d'un analyste.
 
 > Le code est la source.
-https://img.shields.io/badge/status-MVP-blue https://img.shields.io/badge/version-0.1.0-green https://img.shields.io/badge/license-Internal-orange
