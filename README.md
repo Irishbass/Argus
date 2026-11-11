@@ -1,6 +1,6 @@
 # ARGUS
 ![Project](https://img.shields.io/badge/Project-ARGUS-darkred)
-![Version](https://img.shields.io/badge/Version-0.1.0-blue)
+![Version](https://img.shields.io/badge/Version-0.0.1-blue)
 ![Status](https://img.shields.io/badge/Status-Prototype-yellow)
 ![Architecture](https://img.shields.io/badge/Architecture-Multi--Agent-green)
 
