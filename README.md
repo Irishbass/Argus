@@ -348,3 +348,4 @@ ARGUS doit devenir la mémoire vivante des systèmes logiciels de l'organisation
 Chaque changement de code, chaque concept métier et chaque règle d'affaires doit pouvoir être découvert, compris, documenté et consulté sans dépendre de la connaissance individuelle d'un développeur ou d'un analyste.
 
 > Le code est la source.
+https://img.shields.io/badge/status-MVP-blue https://img.shields.io/badge/version-0.1.0-green https://img.shields.io/badge/license-Internal-orange
